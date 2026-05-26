@@ -1,4 +1,4 @@
-![Terrain Labs](./profile/assets/banner.png)
+![Terrain Labs](./profile/banner.png)
 
 # Terrain Labs
 
