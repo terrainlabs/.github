@@ -1,1 +1,1 @@
-![Terrain Labs](./profile/banner.png)
+![Terrain Labs](./banner.png)
